@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 using Microsoft.AspNetCore.Components;
-namespace BlazorWasmOidcAuth;
+namespace BlazorOidcAuth;
 
 public class CustomAuthenticationMessageHandler : AuthorizationMessageHandler
 {

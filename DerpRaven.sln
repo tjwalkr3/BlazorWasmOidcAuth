@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorOidcAuth", "BlazorOidcAuth\BlazorOidcAuth.csproj", "{EFFCAC29-2C37-4887-B6B4-7ABF5501A982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerpRaven.Blazor", "DerpRaven.Blazor\DerpRaven.Blazor.csproj", "{EFFCAC29-2C37-4887-B6B4-7ABF5501A982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9033FF2-9B5E-43AD-8C21-69C04C3EE498}
 	EndGlobalSection
 EndGlobal

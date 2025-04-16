@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 using Microsoft.AspNetCore.Components;
-namespace BlazorOidcAuth;
+namespace DerpRaven.Blazor;
 
 public class CustomAuthenticationMessageHandler : AuthorizationMessageHandler
 {
